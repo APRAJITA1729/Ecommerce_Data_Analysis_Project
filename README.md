@@ -8,7 +8,7 @@ The analysis was done using **Python**, with **Pandas, Matplotlib, and Seaborn**
 ## 📌 Project Overview
 - Cleaned and explored raw ecommerce dataset.
 - Analyzed sales distribution, top-performing categories, and customer segments.
-- Created visualizations (histograms, bar charts, box plots) to better understand patterns.
+- Created visualizations (histograms, bar chart,line chart) to better understand patterns.
 - Identified key insights like top 5 categories by sales and customer segment contribution.
 
 ---
